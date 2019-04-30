@@ -1,0 +1,7 @@
+#
+# Main arguments, all optional
+#
+title: Lights - Second Floor
+
+layout:
+    - switch.exterior_driveway_light (3x2), garage_left (3x2), garage_right (3x2), switch.exterior_porch_lights (3x2)

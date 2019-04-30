@@ -1,0 +1,7 @@
+#
+# Main arguments, all optional
+#
+title: Lights - First Floor
+
+layout:
+    - sonoff05 (2x2), light.hallway_lights (2x2), light.dining_room_lights (2x2), light.kitchen_main_lights (2x2), light.kitchen_table_lights (2x2), light.family_room_lights (2x2)

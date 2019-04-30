@@ -1,0 +1,7 @@
+#
+# Main arguments, all optional
+#
+title: Lights - Basement
+
+layout:
+    - light.basement_lights (6x2), light.basement_theatre_lights (6x2)

@@ -1,0 +1,13 @@
+log:
+  logfile: STDOUT
+  errorfile: STDERR
+appdaemon:
+  disable_apps: 1
+  threads: 10
+  plugins:
+    HASS:
+      type: hass
+      ha_url: !secret homeassistant_url
+      token: !secret hass_token
+hadashboard:
+  dash_url: !secret dashboard_url

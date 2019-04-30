@@ -1,0 +1,12 @@
+# ignore all . files and . folders
+.*
+
+# ignored folders
+compiled
+
+# ignored files
+secrets.yaml
+widgets.yaml
+
+# include .gitignore file
+!/.gitignore
