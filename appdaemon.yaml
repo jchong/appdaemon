@@ -7,7 +7,7 @@ appdaemon:
   plugins:
     HASS:
       type: hass
-      ha_url: !secret homeassistant_url
+      ha_url: https://home.dillnoid.net
       token: !secret hass_token
 hadashboard:
-  dash_url: !secret dashboard_url
+  dash_url: http://coreos-host01.dillnoid.net:5050
