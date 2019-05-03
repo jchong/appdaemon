@@ -10,5 +10,5 @@ layout:
   - nav_cam_artroom, nav_cam_kitchen
   - nav_cam_basement, nav_cam_theatre
   - 
-  - garage_left, garage_right
+  - #garage_left, garage_right
   - clock (2x1)
