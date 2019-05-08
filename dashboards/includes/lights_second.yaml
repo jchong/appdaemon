@@ -4,4 +4,4 @@
 title: Lights - Second Floor
 
 layout:
-    - sonoff03 (2x2), light.izzy_bedroom_lights (4x2), light.master_bedroom_lights (4x2), sonoff01 (2x2)
+    - sonoff04 (2x2) sonoff03 (2x2), light.izzy_bedroom_lights (2x2), light.master_bedroom_lights (4x2), sonoff01 (2x2)

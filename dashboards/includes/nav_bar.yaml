@@ -5,10 +5,10 @@
 layout:
   - nav_lights, nav_reload
   - nav_cam_frontdoor (2x1)
-  - nav_cam_dashboard01, nav_cam_dashboard02
   - nav_cam_driveway, nav_cam_garage
   - nav_cam_artroom, nav_cam_kitchen
   - nav_cam_basement, nav_cam_theatre
+  - nav_cam_dashboard01, nav_cam_dashboard02
+  - status_garage_left, status_garage_right
+  - sensor_security (2x2)
   - 
-  - #garage_left, garage_right
-  - clock (2x1)
