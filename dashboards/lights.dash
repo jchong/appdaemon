@@ -9,12 +9,12 @@ scalable: true
 
 layout:
   - include: includes/widgets # list of all widgets available
-  - nav_home (2x1), switch.exterior_driveway_light (3x2), garage_left (2x2), garage_right (2x2), switch.exterior_porch_lights (3x2)
+  - nav_home (2x1), switch.exterior_driveway_light (2x2), garage_left (3x2), garage_right (3x2), switch.exterior_porch_lights (2x2)
   - nav_lights, nav_reload
-  - nav_cam_frontdoor (2x1), sonoff04 (2x2), sonoff03 (2x2), light.izzy_bedroom_lights (2x2), light.master_bedroom_lights (2x2), sonoff01 (2x2)
+  - nav_cam_frontdoor (2x1), sonoff04 (2x2), light.izzy_bedroom_lights (2x2), sonoff03 (2x2), light.master_bedroom_lights (2x2), sonoff01 (2x2)
   - nav_cam_driveway, nav_cam_garage
-  - nav_cam_artroom, nav_cam_kitchen, sonoff05 (2x2), light.dining_room_lights (2x2), light.kitchen_main_lights (2x2), light.kitchen_table_lights (2x2), light.family_room_lights (2x2)
+  - nav_cam_artroom, nav_cam_kitchen, light.hallway_lights (10x2)
   - nav_cam_basement, nav_cam_theatre
-  - nav_cam_dashboard01, nav_cam_dashboard02, light.hallway_lights (10x2)
+  - nav_cam_dashboard01, nav_cam_dashboard02, sonoff05 (2x2), light.dining_room_lights (2x2), light.kitchen_main_lights (2x2), light.kitchen_table_lights (2x2), light.family_room_lights (2x2)
   - status_garage_left, status_garage_right
   - sensor_security (2x2), light.basement_lights (5x2), light.basement_theatre_lights (5x2)
