@@ -1,0 +1,14 @@
+#
+# Main arguments, all optional
+#
+
+layout:
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  - nav_home (2x1), nav_cam_frontdoor (2x1), nav_cam_artroom, nav_cam_kitchen, nav_cam_dashboard02, spacer (3x1), sensor_security (2x2)
+  - nav_reload, nav_lights, nav_cam_driveway, nav_cam_garage, nav_cam_basement, nav_cam_theatre, nav_cam_dashboard01, spacer, status_garage_left, status_garage_right

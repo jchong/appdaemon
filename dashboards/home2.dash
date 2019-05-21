@@ -1,7 +1,7 @@
 #
 # Main arguments, all optional
 #
-title: Front Door
+title: Home
 widget_dimensions: [102, 76]
 widget_margins: [3, 3]
 columns: 12
@@ -9,5 +9,5 @@ scalable: true
 
 layout:
   - include: includes/widgets # list of all widgets available
-  - nav_home (2x1), ffmpeg_frontdoor (10x10)
-  - include: includes/nav_bar
+  - dakboard (12x8)
+  - include: includes/nav_bar2
