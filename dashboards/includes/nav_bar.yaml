@@ -11,4 +11,4 @@ layout:
   - nav_cam_basement, nav_cam_dashboard00
   - sensor_location_john, sensor_location_wendy
   - status_garage_left, status_garage_right
-  - sensor_security, sensor_bus_isabelle, binary_sensor_camera01_motion, binary_sensor_camera04_motion, binary_sensor_camera03_motion, binary_sensor_camera02_motion, spacer (1x1), icomfort_temperature, icomfort_humidity, sensor_blue_bin, sensor_green_bin, sensor_garbage
+  - sensor_security, sensor_bus_isabelle, binary_sensor_camera01_motion, binary_sensor_camera04_motion, binary_sensor_camera03_motion, binary_sensor_camera02_motion, spacer, icomfort_temperature, icomfort_humidity, sensor_blue_bin, sensor_green_bin, sensor_garbage
