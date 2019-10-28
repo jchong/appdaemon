@@ -9,6 +9,6 @@ scalable: true
 
 layout:
   - include: includes/widgets # list of all widgets available
-  - nav_home (2x1), ffmpeg_garage (10x9)
+  - nav_home (2x1), camera04 (10x9)
   - include: includes/nav_bar
   - include: includes/lights

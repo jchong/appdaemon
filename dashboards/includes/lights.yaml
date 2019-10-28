@@ -4,11 +4,11 @@
 layout:
   - switch.exterior_driveway_light (3x2), garage_left (3x2), garage_right (3x2), switch.exterior_porch_lights (3x2)
   -
-  - sonoff05 (2x2), light.izzy_bedroom_lights (3x2), sonoff03 (2x2), light.master_bedroom_lights (3x2), sonoff01 (2x2)
+  - sonoff02 (2x2), light.izzy_bedroom_lights (3x2), sonoff03 (2x2), light.master_bedroom_lights (3x2), sonoff01 (2x2)
   -
-  - light.hallway_lights (12x2)
+  - light.hallway_lights (8x2), icomfort_temperature (2x2), icomfort_humidity (2x2)
   -
-  - sonoff04 (2x2), light.dining_room_lights (2x2), light.kitchen_main_lights (3x2), light.kitchen_table_lights (3x2), light.family_room_lights (2x2)
+  - sonoff04 (2x2), light.dining_room_lights (2x2), light.kitchen_main_lights (2x2), light.kitchen_table_lights (2x2), sonoff05 (2x2), light.family_room_lights (2x2)
   -
   - light.basement_lights (6x2), light.basement_theatre_lights (6x2)
   -

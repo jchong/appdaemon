@@ -7,8 +7,8 @@ layout:
   - nav_cam_driveway, nav_cam_garage
   - nav_cam_artroom, nav_cam_livingroom 
   - nav_cam_kitchen, nav_cam_dashboard02
-  - nav_cam_theatre, nav_cam_dashboard01
+  - nav_cam_side_north, nav_cam_dashboard01
   - nav_cam_basement, nav_cam_dashboard00
   - sensor_location_john, sensor_location_wendy
   - status_garage_left, status_garage_right
-  - sensor_security, sensor_bus_isabelle, binary_sensor_camera01_motion, binary_sensor_camera04_motion, binary_sensor_camera03_motion, binary_sensor_camera02_motion, spacer (3x1), sensor_blue_bin, sensor_green_bin, sensor_garbage
+  - sensor_security, sensor_bus_isabelle, binary_sensor_camera01_motion, binary_sensor_camera04_motion, binary_sensor_camera03_motion, binary_sensor_camera02_motion, spacer (1x1), icomfort_temperature, icomfort_humidity, sensor_blue_bin, sensor_green_bin, sensor_garbage
