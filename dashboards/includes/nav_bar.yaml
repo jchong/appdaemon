@@ -5,9 +5,9 @@
 layout:
   - nav_cam_frontdoor (2x1)
   - nav_cam_driveway, nav_cam_garage
-  - nav_cam_artroom, nav_cam_livingroom 
+  - nav_cam_backdeck, nav_cam_side_north 
   - nav_cam_kitchen, nav_cam_dashboard02
-  - nav_cam_side_north, nav_cam_dashboard01
+  - nav_cam_livingroom, nav_cam_dashboard01
   - nav_cam_basement, nav_cam_dashboard00
   - sensor_location_john, sensor_location_wendy
   - status_garage_left, status_garage_right
