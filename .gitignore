@@ -3,6 +3,7 @@
 
 # ignored folders
 compiled
+logs
 
 # ignored files
 secrets.yaml
