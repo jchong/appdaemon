@@ -10,5 +10,12 @@ appdaemon:
       type: hass
       ha_url: !secret homeassistant_url
       token: !secret hass_token
+
 hadashboard:
-  dash_url: !secret dashboard_url
+
+api:
+
+http:
+  url: !secret dashboard_url
+
+admin:
