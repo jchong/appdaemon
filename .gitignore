@@ -2,6 +2,7 @@
 .*
 
 # ignored folders
+apps/__pycache__
 compiled
 logs
 
