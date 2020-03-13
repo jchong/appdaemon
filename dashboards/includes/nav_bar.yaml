@@ -5,10 +5,10 @@
 layout:
   - nav_cam_frontdoor (2x1)
   - nav_cam_driveway, nav_cam_garage
-  - nav_cam_backdeck, nav_cam_side_north 
-  - nav_cam_dashboard02, nav_cam_side_south
+  - nav_cam_backdeck, nav_cam_sides
+  - nav_cam_dashboard02, nav_cam_artroom
   - nav_cam_dashboard01, nav_cam_kitchen
   - nav_cam_dashboard00, nav_cam_livingroom
-  - sensor_location_john, sensor_location_wendy
+  - sensor_security, nav_cam_basement
   - status_garage_left, status_garage_right
-  - sensor_security, sensor_bus_isabelle, binary_sensor_camera04_motion, binary_sensor_camera01_motion, binary_sensor_camera03_motion, binary_sensor_camera02_motion, sun.icon, icomfort_temperature, icomfort_humidity, sensor_blue_bin, sensor_green_bin, sensor_garbage
+  - binary_sensor_wyzesense_motion02, binary_sensor_wyzesense_motion01, binary_sensor_camera04_motion, binary_sensor_camera01_motion, binary_sensor_camera03_motion, binary_sensor_camera02_motion, binary_sensor_wyzesense_door01, binary_sensor_wyzesense_door02, binary_sensor_wyzesense_door03, sensor_blue_bin, sensor_green_bin, sensor_garbage

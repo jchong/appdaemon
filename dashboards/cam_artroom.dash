@@ -1,7 +1,7 @@
 #
 # Main arguments, all optional
 #
-title: Sides
+title: Art Room
 widget_dimensions: [103, 77]
 widget_margins: [3, 3]
 columns: 12
@@ -9,6 +9,6 @@ scalable: true
 
 layout:
   - include: includes/widgets # list of all widgets available
-  - nav_home (2x1), camera03 (5x9), camera02 (5x9)
+  - nav_home (2x1), ffmpeg_artroom (10x9)
   - include: includes/nav_bar
   - include: includes/lights

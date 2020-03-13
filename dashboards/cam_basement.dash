@@ -1,0 +1,14 @@
+#
+# Main arguments, all optional
+#
+title: Basement
+widget_dimensions: [103, 77]
+widget_margins: [3, 3]
+columns: 12
+scalable: true
+
+layout:
+  - include: includes/widgets # list of all widgets available
+  - nav_home (2x1), ffmpeg_basement (10x9)
+  - include: includes/nav_bar
+  - include: includes/lights
